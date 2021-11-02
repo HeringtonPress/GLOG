@@ -1,4 +1,4 @@
-# Adventurer Conqueror King System
+# HeringtonPress GLOG System
 
 ## System Reference Document
 
